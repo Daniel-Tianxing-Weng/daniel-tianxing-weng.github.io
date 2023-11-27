@@ -14,9 +14,6 @@ I am a research assistant at [Wu Lab](https://wp.wpi.edu/kuntawu/) at WPI under 
 My research interest lies in the field of active matter. Particularly, my recent work is done on the microtubule-kinesin active fluid. 
 
 
-
-
-
 <iframe 
   width="560" height="315" 
   src="https://www.youtube.com/embed/FDCxLeopGPI?autoplay=1&mute=1" 
