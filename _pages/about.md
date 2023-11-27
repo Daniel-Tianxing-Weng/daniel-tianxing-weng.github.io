@@ -23,13 +23,11 @@ My research interest lies in the field of active matter. Particularly, my recent
 </iframe>
 
 <p style="text-align: center;"> 
-  <a href="https://daniel-tianxing-weng.github.io/">Home</a>
+  <a href="https://daniel-tianxing-weng.github.io/">About</a>
   /
   <a href="https://daniel-tianxing-weng.github.io//publications/">Publications</a>
   /
   <a href="https://daniel-tianxing-weng.github.io//files/Tianxing_Weng_CV_Oct_2023.pdf">CV</a>
-  /
-  <a href="https://daniel-tianxing-weng.github.io//coursework/">Coursework</a>
   /
    <a href="https://daniel-tianxing-weng.github.io//projects/">Projects</a>
 </p>

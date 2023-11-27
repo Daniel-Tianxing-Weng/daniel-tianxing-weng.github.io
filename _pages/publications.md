@@ -17,6 +17,4 @@ author_profile: true
 
 
 
-Publications MD
-
-![](../images/500x300.png)
+## UPCOMING...

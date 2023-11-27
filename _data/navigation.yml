@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Coursework"
-    url: /coursework/
+  # - title: "Coursework"
+  #   url: /coursework/
         
   - title: "Blog Posts"
     url: /year-archive/
