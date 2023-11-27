@@ -10,10 +10,10 @@ author_profile: true
 ## Current Coursework
 
 PH 562 Fundamentals of Biological Physics
-![PH 562 Fundamentals of Biological Physics](posts/fall23/ph562)
+![PH 562 Fundamentals of Biological Physics](/_posts/fall23/ph562)
 
 PH 443X Introduction to Quantum Information
-![PH 443X Introduction to Quantum Information](posts/fall23/ph443x)
+![PH 443X Introduction to Quantum Information](/_posts/fall23/ph443x)
 
 
 ## Previous Coursework
